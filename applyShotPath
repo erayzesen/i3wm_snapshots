@@ -1,0 +1,2 @@
+/cp theme/rofi ~/usr/share/rofi/
+mv ~/usr/share/rofi/rofi ~/usr/share/rofi/themes
